@@ -1,1 +1,4 @@
-# sub miniapplication with redux and typescript to test the npm api
+# sub miniapplication for the Unicode Project
+
+- testing the npm api
+- preparing a redux with typescript template
